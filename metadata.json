@@ -1,0 +1,6 @@
+{
+  "name": "Nova VPN",
+  "description": "Minimalist, futuristic, high-performance WireGuard VPN with neon cyberpunk styling, server latency lists, split tunneling, and encrypted configuration storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
